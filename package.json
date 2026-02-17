@@ -2,10 +2,10 @@
   "name": "copilot-test",
   "version": "1.0.0",
   "description": "Minimal Express app",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "start": "node index.js",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"No tests specified\" && exit 0"
   },
   "dependencies": {
