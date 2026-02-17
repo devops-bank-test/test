@@ -1,0 +1,18 @@
+{
+  "name": "copilot-test",
+  "version": "1.0.0",
+  "description": "Minimal Express app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "license": "MIT"
+}
